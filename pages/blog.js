@@ -1,0 +1,1 @@
+export default function Blog(){ return (<div><h1 className="text-2xl font-bold mb-4">Блог</h1><p>Скоро тут з'являться статті про камінь та догляд.</p></div>) }

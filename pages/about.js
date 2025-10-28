@@ -1,0 +1,1 @@
+export default function About(){ return (<div><h1 className="text-2xl font-bold mb-4">Про нас</h1><p>Муравський Владислав Вікторович — виробництво та продаж виробів з каменю. Професійне обладнання, монтаж, гарантія.</p></div>) }
